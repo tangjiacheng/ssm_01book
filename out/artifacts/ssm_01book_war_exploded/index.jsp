@@ -39,7 +39,7 @@
                   支持书籍的增删改查操作
                 </p>
                 <p>
-                  <a class="btn btn-primary" href="book/main">主页</a> <a class="btn" href="https://github.com/tangjiacheng/ssm_01book">源码</a>
+                  <a class="btn btn-primary" href="book/main">进入</a> <a class="btn" href="https://github.com/tangjiacheng/ssm_01book">源码</a>
                 </p>
               </div>
             </div>

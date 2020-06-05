@@ -73,12 +73,20 @@
                         <input type="checkbox"> Remember me
                     </label>
                 </div>
-                <button type="submit" class="btn btn-default">登录</button>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">登录</button>
+
+                </div>
+                <div>
+                    <a href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary">返回主页</a>
+                </div>
+
             </form>
+
         </div>
         <div class="col-md-4 column"></div>
     </div>
-    
+
 
 </div>
 

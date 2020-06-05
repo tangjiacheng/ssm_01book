@@ -80,7 +80,7 @@
 
     <div class="row">
 
-            <a href="${pageContext.request.contextPath}/book/main" class="btn btn-primary">返回主页</a>
+            <a href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary">返回主页</a>
             <a class="btn btn-primary" href="${pageContext.request.contextPath}/book/logout">注销</a>
     </div>
 

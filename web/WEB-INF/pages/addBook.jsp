@@ -34,7 +34,7 @@
                 </div>
                 <div class="form-group">
                     <label>书籍数量</label>
-                    <input type="text" name="bookCounts" class="form-control" required>
+                    <input type="number" name="bookCount" class="form-control" required>
                 </div>
                 <div class="form-group">
                     <label>书籍介绍</label>
@@ -52,7 +52,7 @@
 
     <div class="row">
         <div class="col-md-4 column">
-            <a href="${pageContext.request.contextPath}/book/main" class="btn btn-primary">返回主页</a>
+            <a href="${pageContext.request.contextPath}/book/main" class="btn btn-primary">返回</a>
         </div>
     </div>
 

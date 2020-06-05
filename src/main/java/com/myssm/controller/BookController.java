@@ -74,7 +74,7 @@ public class BookController {
     @RequestMapping("/addBook")
     public String addBook(Book book) {
         bookService.addBook(book);
-        return "redirect:/book/allBook"; // 重定向
+        return "redirect:/book/main"; // 重定向
     }
 
     //跳转到修改页面
